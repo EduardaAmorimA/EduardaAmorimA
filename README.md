@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=flat)](https://www.linkedin.com/in/eduarda-amorim-a3a939328/)
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-b6276c?style=flat)](https://dev.to/eduarda_amorim)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat)](mailto:eduaarda.amorim.almeida@gmail.com://gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat)](mailto:eduaarda.amorim.almeida@gmail.com)
 
 </div>
 
